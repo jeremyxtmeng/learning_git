@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: The journey of learning data science
 ---
+
 
