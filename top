@@ -1,0 +1,249 @@
+[33mcommit 380bd025e38d5a325bd2355396ee1dec98c24edb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Thu Feb 12 01:29:11 2026 -0800
+
+    adding new days
+
+[33mcommit 69bcebb42d8506570f0ac0a95139e4672284bd68[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Fri Jan 30 08:12:58 2026 -0800
+
+    day62
+
+[33mcommit ae299d923460858a62196d98b1726f853c55e8bb[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Tue Jan 20 11:03:25 2026 -0800
+
+    day 53
+
+[33mcommit 3d29b60197164d3f71d8a11af721de7b0b620851[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Wed Jan 14 10:49:32 2026 -0800
+
+    update resources
+
+[33mcommit 3dab974c43c7a68fe5633cb32360ac75fac8fef1[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sun Jan 11 18:54:41 2026 -0800
+
+    day43
+
+[33mcommit 06528c30ecef8284d010c8852e811b4e465dee25[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Wed Jan 7 04:44:27 2026 -0800
+
+    added day40
+
+[33mcommit 6d6c55d9a8b9ed40b9a540e56ff69502131e373c[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Tue Jan 6 17:46:20 2026 -0800
+
+    fixed type on year
+
+[33mcommit 2c474a138a0ed95c8b469c1845d150761d003aa5[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Tue Jan 6 17:44:30 2026 -0800
+
+    add missing space in the header
+
+[33mcommit 9953801bbfe442609995f48825d3085d180bf6ff[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Tue Jan 6 17:42:16 2026 -0800
+
+    updated until day39
+
+[33mcommit 3056d980d7b00ae83a513c289da68aaaec2a6ae1[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sun Dec 28 22:45:08 2025 -0800
+
+    adding a new day
+
+[33mcommit a8564b0c74600ec2034b67f753dd5a48ab9c266d[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Fri Dec 26 18:51:35 2025 -0800
+
+    adding day 26
+
+[33mcommit 184985c584656ec22cd490fa97757988ecdcc835[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Tue Dec 23 11:56:29 2025 -0800
+
+    new updates
+
+[33mcommit 2000cfa2326a6ac21fd150ab35e61c48a873eb07[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Fri Dec 12 15:38:53 2025 -0800
+
+    day14
+
+[33mcommit f1080039d261b2a91f131ad45d47cf1b91760219[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Fri Dec 5 19:33:01 2025 -0800
+
+    day05
+
+[33mcommit cd749fd2083959b02c3a086e07e86edfc7be7450[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Tue Dec 2 16:06:25 2025 -0800
+
+    adding two posts
+
+[33mcommit ac332d762819a09962944a62ffcea23bf4717a88[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Tue Dec 2 15:50:18 2025 -0800
+
+    corrected typo day02
+
+[33mcommit 739fc7827f5729ee9ac25752069017bd00ae38f9[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Mon Dec 1 12:43:02 2025 -0800
+
+    adding day02
+
+[33mcommit 625e7b9a801d11991d230d817009f4c1924f553c[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sat Nov 29 15:05:59 2025 -0800
+
+    fixed identations
+
+[33mcommit e2a89f6f3fe2399c212176c847bc19684d761a91[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sat Nov 29 14:54:17 2025 -0800
+
+    new contents
+
+[33mcommit 3080529b26b1ca9c42e78f35a3d0c6e2a858d4ff[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sat Nov 29 08:41:57 2025 -0800
+
+    Delete day01.md
+
+[33mcommit 0adf1e4741f57dfac0b254521229be30ce6ee1f7[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sat Nov 29 08:39:47 2025 -0800
+
+    fixing title name
+
+[33mcommit f458e5ee6e35530f9aa77f203cc4c2982144ba1c[m
+Merge: cf072f3 95ae349
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sat Nov 29 08:35:49 2025 -0800
+
+    update day01
+
+[33mcommit cf072f30bc02ab6457418c2a9a4ae998d7ef9337[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sat Nov 29 08:14:24 2025 -0800
+
+    Add new blog post day01 for 2025-11-29
+
+[33mcommit 8243e1771ba773f2c94973b757cb3edb5781789f[m
+Author: jeremyxtmeng <xiangtaom@gmail.com>
+Date:   Sat Nov 29 08:08:04 2025 -0800
+
+    add new file
+
+[33mcommit 95ae349ad99e9839bb9b9cf01b4de74008d31292[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 15:11:32 2025 +0000
+
+    Update to X in STEP and README.md
+
+[33mcommit d3904ecd291541a0d0dd5fae04f71d2ea77a6afc[m
+Merge: 978ce11 c3d4bf2
+Author: Jeremy M <42682099+jeremyxtmeng@users.noreply.github.com>
+Date:   Sat Nov 29 07:11:14 2025 -0800
+
+    Merge pull request #2 from jeremyxtmeng/my-pages
+    
+    a new day
+
+[33mcommit c3d4bf231e517e8c0b9c614a43d80057caebfe5a[m[33m ([m[1;31morigin/my-pages[m[33m)[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 15:05:51 2025 +0000
+
+    Update to 5 in STEP and README.md
+
+[33mcommit 978ce11b792cfec2fa379cc6e9bc7e50aedb82d4[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 15:05:51 2025 +0000
+
+    Update to 5 in STEP and README.md
+
+[33mcommit 159c9cd32c702c0a8c04f28302b67799752fcd15[m
+Author: Jeremy M <42682099+jeremyxtmeng@users.noreply.github.com>
+Date:   Sat Nov 29 07:05:32 2025 -0800
+
+    Create 2025-11-29-day01.md
+
+[33mcommit ecc015ddc9e1cff7ab68fb6296983c0dd7a5d9eb[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 15:01:57 2025 +0000
+
+    Update to 4 in STEP and README.md
+
+[33mcommit 0a291f537c25941c097062b82813a364702ed096[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 15:01:57 2025 +0000
+
+    Update to 4 in STEP and README.md
+
+[33mcommit c9c0c3d5b175038905ddf7adc6f5e3e3d269e6c2[m
+Author: Jeremy M <42682099+jeremyxtmeng@users.noreply.github.com>
+Date:   Sat Nov 29 07:01:39 2025 -0800
+
+    Update index.md
+
+[33mcommit ac0e61081e5cf356e373fa93977e9ea1fd6c947c[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 14:59:45 2025 +0000
+
+    Update to 3 in STEP and README.md
+
+[33mcommit 13f041158f2a0449f29b54ff8b8131a0330a8f59[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 14:59:45 2025 +0000
+
+    Update to 3 in STEP and README.md
+
+[33mcommit 440b3fc80aa33016711f44c8a01aa0284cc13bb9[m
+Author: Jeremy M <42682099+jeremyxtmeng@users.noreply.github.com>
+Date:   Sat Nov 29 06:59:29 2025 -0800
+
+    Update _config.yml
+
+[33mcommit 668967f3797303701676f5f7e97c1257d93430b4[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 14:57:17 2025 +0000
+
+    Update to 2 in STEP and README.md
+
+[33mcommit f4ad82a72dc07c83830a69f393938a023ae441f7[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 14:57:17 2025 +0000
+
+    Update to 2 in STEP and README.md
+
+[33mcommit d2c2fba1f84b8e6c8fdce358a1206ee30c28a54b[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 14:48:30 2025 +0000
+
+    Update to 1 in STEP and README.md
+
+[33mcommit 9e75af0c2fd4135842ad568d75f921ac29f38d0a[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 14:48:30 2025 +0000
+
+    Update to 1 in STEP and README.md
+
+[33mcommit 842af2b013366e89bee0bd1daf4503baa52ebbcb[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Nov 29 14:48:29 2025 +0000
+
+    Create config and homepages files
+
+[33mcommit 668b1fbfa5c945c9f412597263f24401183fad4e[m
+Author: Jeremy M <42682099+jeremyxtmeng@users.noreply.github.com>
+Date:   Sat Nov 29 06:48:09 2025 -0800
+
+    Initial commit

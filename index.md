@@ -1,5 +1,5 @@
 ---
-title: The journey of learning data science
+title: Daily logs of resources and mental floss
 ---
 
 
