@@ -12,6 +12,10 @@ Practicing using Git and learning Github through a personal website hosted by Gi
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
+
+  to rename git
+gh auth login
+gh repo rename learning_git --confirm
 -->
 
 
