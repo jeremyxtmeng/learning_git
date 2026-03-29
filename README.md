@@ -18,5 +18,8 @@ gh auth login
 gh repo rename learning_git --confirm
 -->
 
+```
+git switch -c xtm/ticket-001.creating-live-demo
+```
 
 
