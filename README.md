@@ -19,7 +19,23 @@ gh repo rename learning_git --confirm
 -->
 
 ```
+git status
+git init
+git add.
+git commit -m "text"
+```
+
+```
 git switch -c xtm/ticket-001.creating-live-demo
 ```
+
+```
+git checkout main
+git pull origin main
+git merge xtm/ticket-001.creating-live-demo
+git push origin main
+```
+
+
 
 
